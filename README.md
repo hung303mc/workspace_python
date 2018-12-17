@@ -8,7 +8,7 @@ Each item is marked with a difficulty level.
 Ref: https://www.udemy.com/the-python-mega-course/
 
 ### Application
-- [ ] 1: Build an Interactive Dictionary (1_Interactive_dictionary)
+- [x] 1: Build an Interactive Dictionary (1_Interactive_dictionary)
 - [ ] 2: Create Webmaps with Python and Folium
 - [ ] 3: Build a Website Blocker
 - [ ] 4: Build a Website with Python and Flask
